@@ -37,8 +37,6 @@
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-
 1. [Hosts](https://github.com/Ruin392/-net-hw/assets/53511812/50b29357-51e8-43ef-b0f6-21b7cd6f47b8)
 
 2. [Logs](https://github.com/Ruin392/-net-hw/assets/53511812/7d840e73-ab66-4f71-8676-099d854b3654)
