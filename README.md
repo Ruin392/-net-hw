@@ -41,5 +41,6 @@
 
 2. [Logs](https://github.com/Ruin392/-net-hw/assets/53511812/7d840e73-ab66-4f71-8676-099d854b3654)
 
-3. [Latest data](https://github.com/Ruin392/-net-hw/assets/53511812/0ef0389c-837e-4817-b199-56fbd09f5898)
+3. [Latest data](https://github.com/Ruin392/-net-hw/assets/53511812/7776cc84-fe7e-4d3f-95ba-451ed1b54305)
+
 
